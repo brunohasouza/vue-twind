@@ -1,0 +1,3 @@
+[submodule "my-components"]
+	path = my-components
+	url = git@github.com:brunohasouza/my-components.git
